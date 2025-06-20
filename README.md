@@ -37,6 +37,7 @@ A passionate Embedded & Software Engineer who works at the intersection of hardw
 
 ## 📊 Most Used Languages
 <!-- You can use GitHub stats or language breakdown tools -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitvikal&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
 
